@@ -30,8 +30,7 @@
 
 🌐 Let's connect and collaborate on data-related projects! Feel free to reach out:
 
-- 📧 Email: stafnank@gmail.com
-- 💼 LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/YourLinkedInProfile)
+📧 Email: stafnank@gmail.com
 
 
 ### Thanks for visiting my GitHub! 🙌
