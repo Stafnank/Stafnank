@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 🎓 Actively pursing acourse in Data Analytics and gaining hands-on experience through an internship.
+- 🎓 Actively pursing a course in Data Analytics and gaining hands-on experience through an internship.
 - 💼 Aspiring Data Analyst with a strong interest in turning data into actionable insights.
 - 📈 Always eager to learn and explore new data tools, techniques, and technologies.
 - 💡 I believe in the power of data to drive informed decisions and enhance business performance.
